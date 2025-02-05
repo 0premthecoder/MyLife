@@ -36,6 +36,13 @@ main {
   padding: 20px;
 }
 
+#gallery {
+  /* Add things which makes content center */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
 footer {
   background-color: #333;
   color: white;
